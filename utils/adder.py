@@ -1,4 +1,7 @@
 class Adder(object):
+	'''
+	Basic Adder class
+	'''
 
 	def __init__(self):
 		pass
