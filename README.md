@@ -25,6 +25,9 @@ my_Adder = adder.Adder()
 
 * [Python 3.6](https://www.python.org/) - Easy to learn and versatile programming language
 
+## Another paragraph but with different name
+
+This should cause conflict when doing a PR.
 
 ## Authors
 
